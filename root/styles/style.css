@@ -1,0 +1,14 @@
+* {
+   box-sizing: border-box; 
+   margin: 0px;
+   padding: 0;
+}
+
+#logo{
+ width: 200px;
+}
+
+.enlace-en-linea{
+    display: inline-block;
+    margin: 25px;
+}
